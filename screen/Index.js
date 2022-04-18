@@ -6,4 +6,4 @@ export {
     Home,
     Scan,
     SignUp
-}
+};
